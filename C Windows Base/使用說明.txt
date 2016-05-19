@@ -1,0 +1,6 @@
+Visual C++ 6.0
+在使用上，若不使用這個模板，而要自己另外製作的話
+請記得一定要建立Project，最好是建立WIN32 Application
+這個Project，再把這裡建立的程式碼給放進去。
+
+Write by YingHua Hsieh 2008/3/19
